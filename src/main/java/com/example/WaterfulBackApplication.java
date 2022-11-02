@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WaterfulApplication {
+public class WaterfulBackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WaterfulApplication.class, args);
+		SpringApplication.run(WaterfulBackApplication.class, args);
 	}
 
 }
